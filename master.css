@@ -4,12 +4,16 @@ body {
 	color: white;
 	background-color: red;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 }
 
 div {
 	padding: 10px;
 	margin: 10px;
 	display: flex;
+=======
+	position: relative;
+>>>>>>> Stashed changes
 =======
 	position: relative;
 >>>>>>> Stashed changes
