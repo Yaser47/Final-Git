@@ -1,4 +1,4 @@
 *.log
-!new.log
-Test/
 test.css
+!new.log
+test.txt
